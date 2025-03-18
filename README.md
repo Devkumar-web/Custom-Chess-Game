@@ -26,7 +26,7 @@ Custom-Chess-Game/
 ```
 
 ## 📸 Demo
-Here are some screenshots of the game in action:
+📢Here are some screenshots of the game in action: જ⁀➴
 
 ![Game Screenshot](Demo/Demo_1.png)
 ![Game Screenshot](Demo/Demo_2.png)
