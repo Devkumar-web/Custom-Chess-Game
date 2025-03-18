@@ -28,8 +28,8 @@ Custom-Chess-Game/
 ## 📸 Demo
 Here are some screenshots of the game in action:
 
-![Game Screenshot](Demo/demo1.png)
-![Game Screenshot](Demo/demo2.png)
+![Game Screenshot](Demo/demo_1.png)
+![Game Screenshot](Demo/demo_2.png)
 
 ## 🛠️ Installation & Setup
 To run this project locally, follow these steps:
